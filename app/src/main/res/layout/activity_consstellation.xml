@@ -48,5 +48,6 @@
             android:autoSizeMinTextSize="24dp"
             android:autoSizeStepGranularity="1sp"
             android:autoSizeTextType="uniform"
-            android:id="@+id/textView"/>
+            android:id="@+id/textView" android:layout_alignParentEnd="true" android:layout_marginEnd="32dp"
+            android:layout_marginStart="0dp" android:layout_alignStart="@+id/textView"/>
 </RelativeLayout>
